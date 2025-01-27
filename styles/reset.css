@@ -1,0 +1,33 @@
+/*
+
+
+
+
+
+OWNER: BY FAUZIALIFATAH
+AKU PEMULAH MANA BISA KEK KALIAN
+
+SOSMED:
+YOUTUBE: https://www.youtube.com/@Fauzialifatah
+SALURAN INFORMASI: https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z
+
+
+
+
+
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
+                url('https://picsum.photos/1920/1080') no-repeat center center fixed;
+    background-size: cover;
+}

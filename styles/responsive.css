@@ -1,0 +1,50 @@
+/*
+
+
+
+
+
+OWNER: BY FAUZIALIFATAH
+AKU PEMULAH MANA BISA KEK KALIAN
+
+SOSMED:
+YOUTUBE: https://www.youtube.com/@Fauzialifatah
+SALURAN INFORMASI: https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z
+
+
+
+
+
+*/
+@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+
+    .profile-image-wrapper {
+        width: 150px;
+        height: 150px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .skills-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+}

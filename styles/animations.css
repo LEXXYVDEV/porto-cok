@@ -1,0 +1,68 @@
+/*
+
+
+
+
+
+OWNER: BY FAUZIALIFATAH
+AKU PEMULAH MANA BISA KEK KALIAN
+
+SOSMED:
+YOUTUBE: https://www.youtube.com/@Fauzialifatah
+SALURAN INFORMASI: https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z
+
+
+
+
+
+*/
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+}
+
+.slide-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: slideIn 0.6s ease forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/*
+
+
+
+
+
+OWNER: BY FAUZIALIFATAH
+AKU PEMULAH MANA BISA KEK KALIAN
+
+SOSMED:
+YOUTUBE: https://www.youtube.com/@Fauzialifatah
+SALURAN INFORMASI: https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z
+
+
+
+
+
+*/
+.typing-text::after {
+    content: '|';
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    50% { opacity: 0; }
+}
